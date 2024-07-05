@@ -1,0 +1,2 @@
+ID	Nombret	Valorant	Fortnite	Fifa	Tipo
+9	karina	1	2	3	principiante
